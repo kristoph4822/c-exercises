@@ -1,0 +1,19 @@
+program rozwiązuje układ równań przy pomocy eliminacji gaussa
+
+pierwszy argumentem jest macierz ze wspolczynnikami przy niewiadomych
+drugim argumentem jest macierz dopelnien
+
+macierze zapisujemy w pliku tekstowym według schematu:
+l. wierszy
+l. kolumn
+wartosci (kolejnymi wierszami)
+
+np.:
+3 3 1 2 3 4 5 6 7 8 9
+
+stworzy nam macierz 3x3:
+1   2   3
+4   5   6 
+7   8   9
+
+
